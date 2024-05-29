@@ -8,8 +8,6 @@ editor: visual
 jupyter: python3
 ---
 
-# Printing Environment Variables in Quarto
-
 In this document, we will print out some environment variables.
 
 ```{python}
