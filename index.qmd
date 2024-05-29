@@ -18,7 +18,7 @@ import os
 
 ```{python}
 # List of environment variables to print
-env_vars = ['HOME', 'USER', 'PATH', 'SHELL', 'LANG']
+env_vars = ['Short', 'Normal', 'Long']
 ```
 
 ```{python}
